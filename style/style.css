@@ -1,0 +1,8 @@
+li:hover {
+    background-color: rgb(167, 164, 164);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.error{
+    border-color: red;
+}
